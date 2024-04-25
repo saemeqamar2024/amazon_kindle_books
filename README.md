@@ -18,14 +18,14 @@ Visualisations are also created to get insights on the following:
 The dataset contains the records for over 130,000 Kindle books available on Amazon. The dataset was originally created in October 2023, and was subsequently made available on Kaggle. This dataset was collected from Kaggle on 21st April 2024. Here is the link for it: https://www.kaggle.com/datasets/asaniczka/amazon-kindle-books-dataset-2023-130k-books.
 
 ## Data Analysis
-These are the ten books with the highest number of reviews:
+These are the first five and last five books with the highest number of reviews:
 ![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/238a8bc2-7907-49f1-b8cc-c95ba8d732e1)
 
 Here are the 10 most expensive books, starting with the most expensive book first:
-![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/e16515cb-a4a7-4374-87b4-75c655675b1f)
+![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/7a9fe2f7-50b9-4907-ae99-b6c3f5db612d)
 
 The number of books in each category is listed as follows:
-![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/c7894ebd-42f0-465c-9541-e6f8104559b3)
+![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/b485629e-8275-4593-a384-5c78bab6b039)
 
 ## Visualisations
 ![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/8bf94772-a8fb-4d42-9726-391a4e0f258d)
@@ -38,7 +38,7 @@ The Python libraries used were Pandas, Numpy, Matplotlib and Seaborn in Google C
 ## Outcomes
 Here is a summary of the findings from this project:
 
-- There are 1834 books that have had more than 10,000 reviews. The most reviwed book is "Where the Crawdads Sing" by Delia Owens, with 618227 reviews.
+- There are 1834 books that have had more than 10,000 reviews. The most reviewed book is "Where the Crawdads Sing" by Delia Owens, with 618227 reviews.
 - The most expensive book is "Drugs in Litigation: Damage Awards Involving Prescription and Nonprescription Drugs 2023 Edition" by LexisNexis Editorial Staff, which costs $682.00.
 - Mystery, Thriller & Suspense, Engineering & Transportation and Science & Math are the top three categories containing the highest number of books.
 - There are almost 120,000 books with a star rating of 4.0-5.0 stars.
@@ -46,13 +46,6 @@ Here is a summary of the findings from this project:
     - the price of a book is not correlated with the number of stars (rating).
     - The lower the price of a book, the more reviews it will have.
     - As the rating goes up, the number of reviews a book receives goes up.
-
-## Key Definitions
-- Market Capitalisation: the total dollar value of all of the outstanding shares of a company.
-- Large Cap companies: companies worth greater than $10 trillion.
-- Mid Cap companies: companies worth between $1 billion and less than $10 trillion.
-- Small Cap companies: companies worth between $250 million and less than $1 billion.
-- Micro Cap companies: companies worth less than $250 million.
 
 ## Note
 The data used is from October 2023.
