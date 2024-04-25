@@ -22,7 +22,7 @@ These are the first five and last five books with the highest number of reviews:
 ![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/238a8bc2-7907-49f1-b8cc-c95ba8d732e1)
 
 Here are the 10 most expensive books, starting with the most expensive book first:
-![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/7a9fe2f7-50b9-4907-ae99-b6c3f5db612d)
+![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/6e1ab92e-995d-475e-a518-8c4f64867b4d)
 
 The number of books in each category is listed as follows:
 ![image](https://github.com/saemeqamar2024/amazon_kindle_books/assets/163443584/b485629e-8275-4593-a384-5c78bab6b039)
